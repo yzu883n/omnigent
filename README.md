@@ -442,6 +442,14 @@ Polly at [`examples/polly/`](https://github.com/omnigent-ai/omnigent/tree/main/e
 
 ---
 
+## Base repository template
+
+If you want a clone-ready starter repo with README, governance docs, issue/PR
+templates, CODEOWNERS, and a baseline CI workflow, use
+[`templates/base-repo-template/`](templates/base-repo-template/).
+
+---
+
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](https://github.com/omnigent-ai/omnigent/blob/main/CONTRIBUTING.md) for how to set up your environment, run the checks, and open a pull request.
@@ -454,4 +462,3 @@ Thanks to all of our amazing contributors!
 <a href="https://github.com/omnigent-ai/omnigent/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=omnigent-ai/omnigent" />
 </a>
-
