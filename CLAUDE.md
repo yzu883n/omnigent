@@ -180,5 +180,5 @@ these instead of re-deriving the same steps**:
   for anything not covered above
 - `docs/AGENT_YAML_SPEC.md` — agent YAML schema
 - `docs/POLICIES.md` — full policy catalog
-- `RELEASING.md` — release process
+- `RELEASING.md` — release process and versioning steps
 - `SECURITY.md` — vulnerability reporting policy
